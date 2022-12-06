@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Driss Boumediene</h1>
 <h3 align="center">A young web developer apprentice at Wild Code School in Orléans, France.</h3>
 
-- 🔭 I’m currently working on HTML/CSS/PHP (Symfony)
+- 🔭 I’m currently working on HTML / CSS / PHP (Symfony) / JS
 
-- 🌱 I’m currently learning PHP / JavaScript
+- 🌱 I’m currently learning PHP / JS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
